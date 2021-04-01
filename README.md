@@ -1,6 +1,4 @@
 # URI-Python
 
-My codes from URI ONLINE JUDGE.
-
-:D
+My codes from URI ONLINE JUDGE :D
 
